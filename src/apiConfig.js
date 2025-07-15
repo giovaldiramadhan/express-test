@@ -1,4 +1,4 @@
 // src/apiConfig.js
-const BASE_URL = "http://localhost:3000"; // Sesuaikan dengan port backend Anda
+const BASE_URL = "https://api.wtvkada.site"; // Sesuaikan dengan port backend Anda
 
 export default BASE_URL;
